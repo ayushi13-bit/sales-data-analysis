@@ -1,0 +1,6 @@
+order_id,order_date,product,category,quantity,sales,region
+1001,2024-01-05,Keyboard,Electronics,2,3000,North
+1002,2024-01-06,Mouse,Electronics,3,1500,West
+1003,2024-02-10,Chair,Furniture,1,4500,South
+1004,2024-02-15,Desk,Furniture,1,8000,North
+1005,2024-03-02,Headphones,Electronics,2,4000,East
