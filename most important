@@ -1,0 +1,25 @@
+# Sales Data Analysis
+
+## Project Overview
+This is a beginner-level data analysis project focused on analyzing sales data to identify trends, top products, and regional performance.
+
+## Tools Used
+- Excel
+- SQL (MySQL)
+- Python (Pandas)
+
+## Dataset
+The dataset contains order details such as product, category, sales, and region.
+
+## Key Analysis
+- Monthly sales trends
+- Top-performing products
+- Region-wise sales performance
+
+## Insights
+- Electronics category generated the highest revenue
+- March showed the highest sales
+- North region performed better compared to others
+
+## Conclusion
+This project demonstrates basic data analysis skills including data cleaning, SQL querying, and Python-based analysis.
